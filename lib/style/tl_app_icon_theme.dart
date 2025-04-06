@@ -63,34 +63,34 @@ final Map<TLAppIconThemeType, TLAppIconTheme> themeMap = {
   TLAppIconThemeType.limeGreen: TLAppIconTheme(
     name: "limeGreen",
     appBackgroundColor: Colors.white,
-    hatColor: const Color.fromRGBO(73, 194, 70, 1), // Vibrant green
-    boardColor: const Color.fromRGBO(255, 255, 230, 1), // Soft pale yellow
+    hatColor: const Color.fromRGBO(207, 177, 143, 1), // Vibrant green
+    boardColor: const Color.fromRGBO(255, 252, 242, 1), // Soft pale yellow
     checkmarkColor:
-        const Color.fromRGBO(255, 204, 0, 1), // Golden yellow accent
+        const Color.fromRGBO(143, 200, 159, 1), // Golden yellow accent
   ),
   TLAppIconThemeType.marineBlue: TLAppIconTheme(
     name: "marineBlue",
     appBackgroundColor: Colors.white,
-    hatColor: const Color.fromRGBO(131, 169, 252, 1), // Soft blue
-    boardColor: const Color.fromRGBO(236, 248, 255, 1), // Very light blue
+    hatColor: const Color.fromRGBO(134, 180, 249, 1), // Soft blue
+    boardColor: const Color.fromRGBO(255, 252, 242, 1), // Very light blue
     checkmarkColor:
-        const Color.fromRGBO(101, 221, 155, 1), // Teal/turquoise accent
+        const Color.fromRGBO(134, 180, 249, 1), // Teal/turquoise accent
   ),
   TLAppIconThemeType.cherryBlossom: TLAppIconTheme(
     name: "cherryBlossom",
     appBackgroundColor: Colors.white,
     hatColor: const Color.fromRGBO(255, 170, 180, 1), // Cherry blossom pink
-    boardColor: const Color.fromRGBO(255, 245, 250, 1), // Barely pink
+    boardColor: const Color.fromRGBO(255, 252, 242, 1), // Barely pink
     checkmarkColor:
-        const Color.fromRGBO(219, 112, 147, 1), // Deeper pink/raspberry accent
+        const Color.fromRGBO(219, 112, 127, 1), // Deeper pink/raspberry accent
   ),
   TLAppIconThemeType.pastryBloom: TLAppIconTheme(
     name: "pastryBloom",
     appBackgroundColor: Colors.white,
     hatColor: const Color.fromRGBO(255, 213, 158, 1), // Soft orange/peach
-    boardColor: const Color.fromRGBO(252, 250, 242, 1), // Cream
+    boardColor: const Color.fromRGBO(255, 252, 242, 1), // Cream
     checkmarkColor:
-        const Color.fromRGBO(165, 117, 98, 1), // Cinnamon brown accent
+        const Color.fromRGBO(185, 167, 158, 1), // Cinnamon brown accent
   ),
   TLAppIconThemeType.notebook: TLAppIconTheme(
     name: "notebook",
